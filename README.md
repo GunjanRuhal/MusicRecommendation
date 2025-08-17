@@ -26,7 +26,7 @@ Detailed Metrics: Provides Confusion Matrices, Precision, Recall, and F1-Scores 
 
 Genre Correlation: Identifies which genres are most frequently favored by individuals reporting a positive music effect, especially under certain mental health conditions (e.g., "Rock" or "Pop" might show high correlation with improvement for individuals with high anxiety scores).
 
-🛠# Technologies Used
+# Technologies Used
 Python: Programming Language
 
 Pandas: Data manipulation and analysis
