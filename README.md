@@ -11,7 +11,7 @@ Exploratory Data Analysis (EDA): Comprehensive visualizations (histograms, pie c
 
 Machine Learning Classification:
 
-Implementation and evaluation of multiple supervised learning models including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVC), and K-Nearest Neighbors (KNN).
+Implementation and evaluation of multiple supervised learning models including Logistic Regression, Decision Tree, Random Forest.
 
 Models are trained to classify the impact of music on mental well-being (Improve vs. Worsen/No Effect).
 
