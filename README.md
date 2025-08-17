@@ -4,7 +4,7 @@ This project explores the intricate relationship between music listening habits,
 # Project Goal
 To analyze survey data, build classification models to predict whether music has a positive or non-positive effect on mental well-being, and identify music genres that correlate with reported improvements in specific mental health conditions.
 
-#Key Features
+# Key Features
 Data Loading & Preprocessing: Robust handling of survey data, including cleaning and mapping of categorical responses in the 'Music effects' column to numerical values.
 
 Exploratory Data Analysis (EDA): Comprehensive visualizations (histograms, pie charts) to understand listening habits, age distribution, streaming service preferences, and the overall reported impact of music on mental health.
